@@ -5,7 +5,7 @@
     <parent>
         <artifactId>spring-security-oauth2-learn</artifactId>
         <groupId>com.github.hellxz</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>prd-0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
